@@ -10,7 +10,7 @@ public class Main {
         //DB parametrs
         String url = "jdbc:mysql://localhost:3306/musical_composition?useUnicode=true&serverTimezone=UTC";
         String user = "root";
-        String password = "guvelu12";
+        String password = "";
         ResultSet rs;
         Scanner in = new Scanner(System.in);
 
